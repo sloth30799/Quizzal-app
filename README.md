@@ -1,6 +1,6 @@
 # Quizzal-App: [Visit Here](https://dinner-dice.onrender.com/)
 
-![Imgur](https://i.imgur.com/MaUMwJ5.png)
+![Imgur](https://i.imgur.com/bPKFtqe.png?1)
 
 Welcome to the Quizzal-App! The quizzal app is a quiz game that allows users to test their knowledge in various subjects. The app fetches quiz questions and answers from an external API and displays them to the user. 
 
