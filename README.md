@@ -24,4 +24,4 @@ Click the start quiz! The user can then select an answer and submit their answer
 
 # Note
 
-The default diffculty is setted to hard. xD
+The default difficulty is setted to hard. xD
