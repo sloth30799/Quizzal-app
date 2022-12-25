@@ -1,4 +1,4 @@
-# Quizzal-App: [Visit Here](https://dinner-dice.onrender.com/)
+# Quizzal-App: [Visit Here](https://quizzal-app.netlify.app/)
 
 ![Imgur](https://i.imgur.com/bPKFtqe.png?1)
 
